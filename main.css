@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.columnFlex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+header {
+    width: 100%;
+    padding: 20px;
+    border-bottom: 1px solid lightgray;
+}
+
+#banner {
+    width: 100%;
+    aspect-ratio: 3;
+    padding: 10px;
+}
+
+svg {
+    width: calc(100vw / 20);
+    margin: 10px;
+}
