@@ -1,0 +1,52 @@
+dist
+
+# .NET build folders
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Visual Studio Code settings
+.vscode/
+
+# Build results
+*.dll
+*.exe
+*.app
+*.so
+*.dylib
+
+# VS for Mac
+.idea/
+*.userprefs
+
+# Logs
+*.log
+
+# NPM packages (if using JS interop or frontend tools)
+node_modules/
+
+# Environment secrets
+.env
+appsettings.Development.json
+
+# Blazor WASM specific (client-side)
+wwwroot/dist/
+wwwroot/node_modules/
+
+# Rider IDE
+.idea/
+
+# Coverage reports
+coverage/
+
+# Publish directory
+publish/
