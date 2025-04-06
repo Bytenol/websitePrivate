@@ -1,9 +1,9 @@
 {
   "mainAssemblyName": "Bytenol",
   "resources": {
-    "hash": "sha256-xCHfW3fdgTk5s498YRQSF939ocfvAE6LMoXvCD8EoG0=",
+    "hash": "sha256-b0XjadCPlNWlMIJpdxJOld6LL/jyLdgkDhKh882vZ0I=",
     "fingerprinting": {
-      "Bytenol.yd8yc7ubs2.wasm": "Bytenol.wasm",
+      "Bytenol.ahzg69nt48.wasm": "Bytenol.wasm",
       "Microsoft.AspNetCore.Components.4jadli1mzw.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.7apenvi18o.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
       "Microsoft.AspNetCore.Components.WebAssembly.pq7fdyw1tb.wasm": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
@@ -64,7 +64,7 @@
       "System.Runtime.InteropServices.JavaScript.3uvku0ibnu.wasm": "sha256-K5wa4QwWB8A0OrHM4yWK86Nl6ItEv9c3ctAASLMYLKo="
     },
     "assembly": {
-      "Bytenol.yd8yc7ubs2.wasm": "sha256-9gabp9TWyPVfSKb+t9eZP9rLUQCPVvDJrVgA62BIp8Y=",
+      "Bytenol.ahzg69nt48.wasm": "sha256-Yq7OOTTI6Un71WUW2XWPF9l1KmiHOGZgjYGS+RL5DnE=",
       "Microsoft.AspNetCore.Components.4jadli1mzw.wasm": "sha256-cDzRamvYW+nh7UAGcideIws/wZs4seVd4j7Wtk9bxmY=",
       "Microsoft.AspNetCore.Components.Web.7apenvi18o.wasm": "sha256-fyqnB2DYAO80AStwVkG2g+mFplGXI54QNWpUbk5VoiE=",
       "Microsoft.AspNetCore.Components.WebAssembly.pq7fdyw1tb.wasm": "sha256-D/ZUWrvE7bqOtBfOWuLj+4RNqOvNZ0SnjD6QrBwUcb8=",
